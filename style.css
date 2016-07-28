@@ -105,7 +105,7 @@ body div.city-detail section.today div ul.today-hourly-list > li img {
 body div.city-detail section.forecast {
   position: relative;
   width: 100%;
-  margin-top: 10px;
+  margin-top: 30px;
   padding-bottom: 10px;
 }
 body div.city-detail section.forecast ul.forecast-list {
