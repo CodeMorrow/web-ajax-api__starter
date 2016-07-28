@@ -23,6 +23,7 @@ window.addEventListener("load", function() {
 		var pressure = document.getElementById("pressure");
 		var visibility = document.getElementById("visibility");
 
+debugger;
 
 		currentWeather.innerHTML = response.currently.summary;
 		currentTemp.innerHTML = Math.round(response.currently.apparentTemperature) + "&deg;";
